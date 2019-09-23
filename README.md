@@ -12,7 +12,7 @@ speed will be ramped-up during the start phase.
 Supported:
 - HITEC HS-5646WP
 
-![My image](https://github.com/peterloes/Servo_Engine/blob/master/1_Getting_Started_Tutorial/2_Electronic_board.jpg)
+![My image](https://github.com/peterloes/Servo_Engine/blob/master/Getting_Started_Tutorial/2_Electronic_board.jpg)
  
  Setup Mode
  
@@ -27,11 +27,11 @@ Supported:
    returns to normal operation
 
 
-![My image](https://github.com/peterloes/Servo_Engine/blob/master/1_Getting_Started_Tutorial/1_MOMO_SHUTTER.jpg)
+![My image](https://github.com/peterloes/Servo_Engine/blob/master/Getting_Started_Tutorial/1_MOMO_SHUTTER.jpg)
 
 Bird Feeder Application (MOMO)
 
-![My image](https://github.com/peterloes/Servo_Engine/blob/master/1_Getting_Started_Tutorial/1_MOMO_SHUTTER_1.jpg)
+![My image](https://github.com/peterloes/Servo_Engine/blob/master/Getting_Started_Tutorial/1_MOMO_SHUTTER_1.jpg)
 
 Bird Feeder Application (MOMO)
 
