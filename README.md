@@ -34,7 +34,3 @@ Bird Feeder Application (MOMO)
 ![My image](https://github.com/peterloes/Servo_Engine/blob/master/Getting_Started_Tutorial/1_MOMO_SHUTTER_1.jpg)
 
 Bird Feeder Application (MOMO)
-
-The Servo_Engine features EFM32 ...the world´s most energy friendly microcontrollers
-
-ARM Cortex-M3 EFM32G230F128
