@@ -1,7 +1,7 @@
-Stückliste exportiert aus C:/MPIO/TECHNIK/HARDWARE/EAGLE_FILES/Servoplatine_2015/Servo_2016.sch am 15.05.2018 12:53
+StÃ¼ckliste exportiert am 15.05.2018 12:53
 
 Part  Value                Device                  Package                Description                                                    MF MPN OC_FARNELL OC_NEWARK
-C1    100µ/16V             CPOL-EUE                PANASONIC_E            POLARIZED CAPACITOR, European symbol                                                      
+C1    100Âµ/16V             CPOL-EUE                PANASONIC_E            POLARIZED CAPACITOR, European symbol                                                      
 C2    1uF                  C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
 C3    1nF                  C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
 C4    10nF                 C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
@@ -22,13 +22,13 @@ C18   100n                 C_SMD0805               0805
 C19   100n                 C_SMD0805               0805                                                                                                             
 C20   100n                 C_SMD0805               0805                                                                                                             
 C21   100n                 C_SMD0805               0805                                                                                                             
-C22   4.7µF                C-EUC1210               C1210                  CAPACITOR, European symbol                                                                
+C22   4.7ÂµF                C-EUC1210               C1210                  CAPACITOR, European symbol                                                                
 C23   10nF                 C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
 C24   100nF                C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
 C25   4.3nF                C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
 C26   24pF                 C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
-C27   22µF                 C-EUC1210               C1210                  CAPACITOR, European symbol                                                                
-C28   22µF                 C-EUC1210               C1210                  CAPACITOR, European symbol                                                                
+C27   22ÂµF                 C-EUC1210               C1210                  CAPACITOR, European symbol                                                                
+C28   22ÂµF                 C-EUC1210               C1210                  CAPACITOR, European symbol                                                                
 C29   10n                  C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
 C30   10n                  C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
 C31   10n                  C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
