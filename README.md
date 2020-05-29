@@ -35,4 +35,9 @@ Bird Feeder Application (MOMO)
 
 Bird Feeder Application
 
-Mainboard: https://github.com/peterloes/MOMO
+Mainboard: 
+
+https://github.com/peterloes/MOMO
+
+https://github.com/peterloes/TAMDL
+
