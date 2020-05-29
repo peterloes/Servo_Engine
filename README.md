@@ -35,6 +35,8 @@ Bird Feeder Application (MOMO)
 
 Bird Feeder Application
 
+https://github.com/peterloes/Servo_Engine/blob/master/Getting_Started_Tutorial/1_poster_overview.pdf
+
 Mainboard: 
 
 https://github.com/peterloes/MOMO
