@@ -16,7 +16,7 @@ Technical specifications:
 
 Supported:
 - HiTEC HS-5646WP
-- HiTEC HS 785
+- HiTEC HS 785(sailing winds)
 
 ![My image](https://github.com/peterloes/Servo_Engine/blob/master/Getting_Started_Tutorial/2_Electronic_board.jpg)
  
