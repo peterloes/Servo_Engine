@@ -9,11 +9,10 @@ inputs, please see below. The firmware supports soft-start, i.e. the servo
 speed will be ramped-up during the start phase.
 
 Technical specifications:
-
-Input voltage: 12-42V
-Standby current consumption: 12V@3mA
-Maximum current consuption: 1.5A
-Dimensions: 60 × 50 × 10 mm
+- Input voltage: 12-42V
+- Standby current consumption: 12V@3mA
+- Maximum current consuption: 1.5A
+- Dimensions: 60 × 50 × 10 mm
 
 Supported:
 - HiTEC HS-5646WP
