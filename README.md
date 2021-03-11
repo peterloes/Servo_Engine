@@ -10,7 +10,8 @@ speed will be ramped-up during the start phase.
  
 
 Supported:
-- HITEC HS-5646WP
+- HiTEC HS-5646WP
+- HiTEC HS 785
 
 ![My image](https://github.com/peterloes/Servo_Engine/blob/master/Getting_Started_Tutorial/2_Electronic_board.jpg)
  
