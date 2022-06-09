@@ -10,7 +10,7 @@ speed will be ramped-up during the start phase.
 
 Technical specifications:
 - Input voltage: 12-42V
-- Standby current consumption: 12V@3mA
+- Standby current consumption: 3mA@12V
 - Maximum current consuption: 1.5A
 - Dimensions: 60 × 50 × 10 mm
 
