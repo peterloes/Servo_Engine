@@ -53,7 +53,9 @@ Manufacture:
 
 https://github.com/peterloes/Servo_Engine/blob/master/Getting_Started_Tutorial/3_Supplier.txt
 
-EXTENSIONS
+EXTENSIONS:
+
+https://github.com/peterloes/SmartAnimalTraps
 
 Application: Antenna (horizontal) rotation over 360 degrees (HiTEC HS 785//sailing winds; 12V@25mA)
 
