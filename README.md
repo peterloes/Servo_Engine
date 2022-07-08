@@ -1,6 +1,6 @@
 ﻿# SERVO Engine
 
-A standalone Platform for Animal Manipulation 
+A standalone platform for animal manipulation. 
 
 This is the firmware for project Servo_2015, a small board which allows to
 control a servo via its PWM input. Setup and control of the servo is done
