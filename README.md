@@ -61,8 +61,7 @@ https://github.com/peterloes/SmartAnimalTraps
 
 Antenna (horizontal) rotation over 360 degrees (HiTEC HS 785//sailing winds; 12V@25mA).
 
-https://github.com/peterloes/Servo_Engine/blob/master/Getting_Started_Tutorial/2_Servo_Antenna_3turns.JPG
-New firmware is not uploaded to avoid confusion.
+https://github.com/peterloes/Servo_Engine/blob/master/Getting_Started_Tutorial/2_Servo_Antenna_3turns.jpg (New firmware is not uploaded.)
 
 Actuator for linear movements.
 
