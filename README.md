@@ -55,15 +55,15 @@ https://github.com/peterloes/Servo_Engine/blob/master/Getting_Started_Tutorial/3
 
 EXTENSIONS:
 
+Electrical applications for non-deadly animal traps.
+
 https://github.com/peterloes/SmartAnimalTraps
 
-Application: Antenna (horizontal) rotation over 360 degrees (HiTEC HS 785//sailing winds; 12V@25mA)
+Antenna (horizontal) rotation over 360 degrees (HiTEC HS 785//sailing winds; 12V@25mA).
 
 https://github.com/peterloes/Servo_Engine/blob/master/Getting_Started_Tutorial/2_Servo_Antenna_3turns.JPG
-
 New firmware is not uploaded to avoid confusion.
 
-Actuator for linear movements
+Actuator for linear movements.
 
 https://github.com/peterloes/Linear_Engine
-
